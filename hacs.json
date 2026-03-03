@@ -1,0 +1,7 @@
+{
+  "name": "Volkswagen We Connect ID",
+  "content_in_root": false,
+  "render_readme": true,
+  "domain": "volkswagen_we_connect_id",
+  "country": ["DE","SE","NO","DK","NL"]
+}
