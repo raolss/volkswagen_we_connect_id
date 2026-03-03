@@ -2,16 +2,16 @@
   "domain": "volkswagen_we_connect_id",
   "name": "Volkswagen We Connect ID",
   "config_flow": true,
-  "documentation": "https://github.com/mitch-dc/volkswagen_we_connect_id#readme",
+  "documentation": "https://github.com/raolss/volkswagen_we_connect_id#readme",
   "requirements": ["weconnect==0.60.11", "ascii_magic>=2.0.0"],
   "ssdp": [],
   "zeroconf": [],
   "homekit": {},
   "dependencies": [],
   "loggers": ["weconnect"],
-  "issue_tracker": "https://github.com/mitch-dc/volkswagen_we_connect_id/issues",
+  "issue_tracker": "https://github.com/raolss/volkswagen_we_connect_id/issues",
   "codeowners": [
-    "@mitch-dc"
+    "@raolss"
   ],
   "iot_class": "cloud_polling",
   "version": "1.0"
